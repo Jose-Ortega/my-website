@@ -11,3 +11,7 @@ This is some text on readme file.
 ##PURPOSE
 
 trying some tags
+
+## Getting started
+
+To get started, just clone this repository
