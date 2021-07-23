@@ -2,6 +2,4 @@
 
 this is cool stuff
 
-new edit
-
-updated locally
+updates made on master at github
