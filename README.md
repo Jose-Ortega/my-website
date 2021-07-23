@@ -7,3 +7,7 @@ updates made on master at github
 
 
 This is some text on readme file.
+
+##PURPOSE
+
+trying some tags
